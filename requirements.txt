@@ -50,7 +50,6 @@ pipenv==2021.11.5.post0
 platformdirs==2.4.0
 prompt-toolkit==3.0.16
 ptyprocess==0.7.0
-pygame==2.0.1
 Pygments==2.8.0
 pylint==2.6.0
 pynput==1.7.4
